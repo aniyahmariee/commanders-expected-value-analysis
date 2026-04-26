@@ -17,4 +17,6 @@ performance using NFL data.
 - Analyzed offensive efficiency metrics across game situations
 
 ## Visualizations
-[Add screenshots here]
+<img width="1512" height="982" alt="Screenshot 2026-04-26 at 6 34 01 PM" src="https://github.com/user-attachments/assets/7e34dcca-11e5-460c-9fe7-ff886311a2d6" />
+<img width="1512" height="982" alt="Screenshot 2026-04-26 at 6 33 49 PM" src="https://github.com/user-attachments/assets/a948bccb-cfdd-40f2-9469-748ffbca3657" />
+
